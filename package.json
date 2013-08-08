@@ -1,0 +1,19 @@
+{
+  "name": "contenteditable",
+  "version": "0.3.0",
+  "description": "Fixing contenteditable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/terinjokes/contenteditable.git"
+	},
+  "dependencies": {
+    "history-component": "0.0.1",
+    "dom-events": "~0.1.1"
+  }
+}
