@@ -1,4 +1,8 @@
 
+// to build this example
+//     browserify setup.js > bundle.js
+
+
 // https://github.com/terinjokes/contenteditable
 var Editable = require("../index.js"); // require("contenteditable")
 
