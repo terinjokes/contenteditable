@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Poly);
+
+::selection {
+	background: #CCC;
+}
+*{
+	box-sizing:border-box
+}
+html,body{
+	margin:50px 0px;
+	padding:0;
+	height:100%;
+}
+body{
+	font-family: 'Poly', serif;
+	font-size:16px;
+	color:#222222;
+	background:#fff;
+	line-height: 1.2;
+	background-color:#fcfcfc;
+}
+#edit{
+    min-height: 300px !important;
+    width: 500px;
+	border: 1px solid #DEDEDC;
+    margin: 0px auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-bottom: 20px;
+	background-color:#f3f3f3;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+	text-align:left;
+}
