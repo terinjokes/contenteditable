@@ -1,5 +1,7 @@
 ## Information
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/terinjokes/contenteditable.svg)](https://greenkeeper.io/)
+
 <table>
 <tr>
 <td>Package</td><td>contenteditable</td>
